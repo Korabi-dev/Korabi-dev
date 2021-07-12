@@ -1,4 +1,4 @@
-## Hi there I'm Korab Arifi! 👋
+## Welcome, I'm Korab Arifi! 👋
 
 ## 📚 Projects
 My current projects are [Avio](https://github.com/Korabi-dev/AvioDev) and [Math-functions.js](https://github.com/Korabi-dev/Math-functions.js)
@@ -16,3 +16,6 @@ I'm in a relationship with a lovely and amazing girl called Nicole, I really lov
 
 ## 💥 Profile Views
 ![](https://komarev.com/ghpvc/?username=Korabi-dev)
+
+## Goodbye! 👋
+Thanks for visiting my GitHub profile <3
