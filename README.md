@@ -14,7 +14,7 @@ I'm in a relationship with a lovely and amazing girl called Nicole, I really lov
 ## 📈 Stats
 [![Korabi-dev's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Korabi-dev&theme=dark&show_icons=true)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-![](https://camo.githubusercontent.com/f9751c6e4a7f62a575c1b7b4e21c2695057a011a83c20522045179041f43269b/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4d696c6f313233343539)
+![](https://komarev.com/ghpvc/?username=Korabi-dev)
 
 ## 🎵 Spotify
 [![Spotify](https://novatorem-kappa-gold.vercel.app/api/spotify)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
