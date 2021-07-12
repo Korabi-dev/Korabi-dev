@@ -12,7 +12,7 @@ I'm in a relationship with a lovely and amazing girl called Nicole, I really lov
 <img src="https://i.pinimg.com/originals/24/5a/82/245a82a1721047c5bc0a9fec89b26802.gif" alt ="Luv.gif">
 
 ## 📈 Stats
-[Korabi-dev's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Korabi-dev&theme=dark&show_icons=true)
+![[Korabi-dev's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Korabi-dev&theme=dark&show_icons=true)
 
 ## 📉 Profile Views
 ![](https://komarev.com/ghpvc/?username=Korabi-dev)
