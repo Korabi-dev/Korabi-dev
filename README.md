@@ -15,14 +15,7 @@ I'm in a relationship with a lovely and amazing girl called Nicole, I really lov
 [![Korabi-dev's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Korabi-dev&theme=dark&show_icons=true)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## 📉 Profile Views
- <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
-        <text x="41.5" y="15" fill="#010101" fill-opacity=".3">Profile views</text>
-        <text x="41.5" y="14">Profile views</text>
-        <text x="101.5" y="15" fill="#010101" fill-opacity=".3">1,000</text>
-        <text x="101.5" y="14">26,000</text>
-    </g>
-![](https://komarev.com/ghpvc/?username=Korabi-dev)
-
+![](https://camo.githubusercontent.com/0b9d19268d7510a1135795d9077f5ae33b48e838f891ee344c0129402698e575/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4b6f726162692d646576)
 ## Spotify
 [![Spotify](https://novatorem-kappa-gold.vercel.app/api/spotify)]()
 
