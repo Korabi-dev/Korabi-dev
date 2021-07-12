@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hi there I'm Korab Arifi! 👋
+<br>
+## 📚 Projects
+<br>
 
-<!--
-**Korabi-dev/Korabi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My current projects are [Avio](https://github.com/Korabi-dev/AvioDev) and [Math-functions.js](https://github.com/Korabi-dev/Math-functions.js)
 
-Here are some ideas to get you started:
+## 📄 About me 
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a JavaScript Developer who loves making bots, and I have some amazing friends!
+
+## 💖 Love
+<br>
+I'm in a relationship with a lovely and amazing girl called Nicole, I really love her and I would do anything for her <3
+
+<img src="https://i.pinimg.com/originals/24/5a/82/245a82a1721047c5bc0a9fec89b26802.gif" alt ="Luv.gif">
+
+## 🌌 Stats
+<br>
+[![Korabi-dev's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Korabi-dev&theme=dark&show_icons=true)]()
+
+## 💥 Profile Views
+![](https://komarev.com/ghpvc/?username=Korabi-dev)
