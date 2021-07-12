@@ -18,7 +18,7 @@ I'm in a relationship with a lovely and amazing girl called Nicole, I really lov
 ![](https://komarev.com/ghpvc/?username=Korabi-dev)
 
 ## Spotify
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ag4njzejamkgxd0nxc5br6s8n&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=ag4njzejamkgxd0nxc5br6s8n&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=MDQ6VXNlcjY5MTA1MjA2&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=MDQ6VXNlcjY5MTA1MjA2&redirect=true)
 
 ## Goodbye! 👋
 Thanks for visiting my GitHub profile <3
