@@ -17,4 +17,6 @@ I'm in a relationship with a lovely and amazing girl called Nicole, I really lov
 ![](https://komarev.com/ghpvc/?username=Korabi-dev)
 
 ## 👋 Goodbye
-Thanks for visiting my GitHub profile <3
+Thanks for visiting my GitHub profile <3 
+
+<img src="https://media1.tenor.com/images/94a5e8bfd93689097ea84cb08556b04b/tenor.gif?itemid=21544644" alt="About me?">
