@@ -1,7 +1,7 @@
 ## Welcome, I'm Korab Arifi! 👋
 
 ## 🛠️ Projects
-My current projects are [Avio](https://github.com/Korabi-dev/AvioDev), [Math-functions.js](https://github.com/Korabi-dev/Math-functions.js) and [Snek](https://github.com/Korabi-dev/snek)
+My current projects are [Avio](https://github.com/Korabi-dev/AvioDev), [Math-functions.js](https://github.com/Korabi-dev/Math-functions.js), [Staff Bot](https://github.com/Korabi-dev/Staff-Bot) and [Snek](https://github.com/Korabi-dev/snek)
 
 <img src="https://media1.tenor.com/images/0660efe82fa3da42ed56eef013171835/tenor.gif?itemid=16596559" alt="coding">
 
