@@ -21,4 +21,5 @@ I'm in a relationship with a lovely and amazing girl called Nicole, I really lov
 ## 👋 Goodbye
 Thanks for visiting my GitHub profile <3 
 
+<img src="https://media1.tenor.com/images/f4e3e88e11a4f9e90859b13c1c3f47f9/tenor.gif?itemid=17076353" alt="Love Me?">
 <!--<img src="https://media1.tenor.com/images/94a5e8bfd93689097ea84cb08556b04b/tenor.gif?itemid=21544644" alt="About me?"> !-->
