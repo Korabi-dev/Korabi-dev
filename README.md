@@ -8,6 +8,8 @@ My current projects are [Avio](https://github.com/Korabi-dev/AvioDev), [Math-fun
 ## 📜 About me 
 I'm a JavaScript Developer who loves making bots, and I have some amazing friends, mainly Noobie and Ralphie05.
 
+<img src="https://media1.tenor.com/images/3fd85814ea4e2e257943f14e3d76d331/tenor.gif?itemid=16969045" alt="About me">
+
 ## 💖 Love
 I'm in a relationship with a lovely and amazing girl called Nicole, I really love her and I would do anything for her <3
 
