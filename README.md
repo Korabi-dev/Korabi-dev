@@ -18,8 +18,6 @@ I'm in a relationship with a lovely and amazing girl called Nicole, I really lov
 ## 📈 Stats
 [![Korabi-dev's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Korabi-dev&theme=radical&show_icons=true)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-![](https://komarev.com/ghpvc/?username=Korabi-dev)
-
 ## 👋 Goodbye
 Thanks for visiting my GitHub profile <3 
 
