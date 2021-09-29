@@ -6,7 +6,7 @@ My current projects are [Avio](https://github.com/Korabi-dev/AvioDev), [Math-fun
 <img src="https://media1.tenor.com/images/0660efe82fa3da42ed56eef013171835/tenor.gif?itemid=16596559" alt="coding">
 
 ## 📜 About me 
-I'm a JavaScript Developer who loves making bots, and I have some amazing friends, mainly Noobie and Ralphie05.
+I'm a JavaScript Developer who loves making bots, and I have some amazing friends, mainly Noobie.
 
 <img src="https://media1.tenor.com/images/3fd85814ea4e2e257943f14e3d76d331/tenor.gif?itemid=16969045" alt="About me">
 
