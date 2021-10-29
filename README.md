@@ -19,7 +19,7 @@ I'm in a relationship with a lovely and amazing girl called Eri, I really love h
 [![Korabi-dev's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Korabi-dev&theme=radical&show_icons=true)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## 👋 Goodbye
-Thanks for visiting my GitHub profile <3 
+Thanks for visiting my GitHub profile, if you wanna learn more about me go to my personal website at https://korabi-dev.github.io/
 
 <img src="https://media1.tenor.com/images/f4e3e88e11a4f9e90859b13c1c3f47f9/tenor.gif?itemid=17076353" alt="Love Me?">
 <!--<img src="https://media1.tenor.com/images/94a5e8bfd93689097ea84cb08556b04b/tenor.gif?itemid=21544644" alt="About me?"> !-->
