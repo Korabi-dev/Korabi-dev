@@ -11,7 +11,7 @@ I'm a JavaScript Developer who loves making bots, and I have some amazing friend
 <img src="https://media1.tenor.com/images/3fd85814ea4e2e257943f14e3d76d331/tenor.gif?itemid=16969045" alt="About me">
 
 ## 💖 Love
-I'm in a relationship with a lovely and amazing girl called Eri, I really love her and I would do anything for her <3
+I'm currently single 😎
 
 <img src="https://i.pinimg.com/originals/24/5a/82/245a82a1721047c5bc0a9fec89b26802.gif" alt ="Luv.gif">
 
