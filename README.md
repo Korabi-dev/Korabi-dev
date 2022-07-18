@@ -11,12 +11,12 @@ I'm a JavaScript Developer who loves making bots, and I have some amazing friend
 <img src="https://media1.tenor.com/images/3fd85814ea4e2e257943f14e3d76d331/tenor.gif?itemid=16969045" alt="About me">
 
 ## 💖 Love
-I'm currently single 😎
+I'm taken by the most amazing person I know, I'm very thankful for that
 
 <img src="https://i.pinimg.com/originals/24/5a/82/245a82a1721047c5bc0a9fec89b26802.gif" alt ="Luv.gif">
 
 ## 📈 Stats
-[![Korabi-dev's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Korabi-dev&theme=radical&show_icons=true)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Korabi's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Korabi-dev&theme=radical&show_icons=true)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## 👋 Goodbye
 Thanks for visiting my GitHub profile, if you wanna learn more about me go to my personal website at https://korabi-dev.github.io/
