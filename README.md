@@ -1,7 +1,7 @@
 ## Welcome, I'm Korab Arifi! 👋
 
 ## 🛠️ Projects
-My current project is [plex](https://dsc.gg/plex)
+My current project is [plex](https://dsc.gg/plexbot)
 
 <img src="https://media1.tenor.com/images/0660efe82fa3da42ed56eef013171835/tenor.gif?itemid=16596559" alt="coding">
 
