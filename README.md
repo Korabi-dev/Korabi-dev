@@ -1,17 +1,17 @@
 ## Welcome, I'm Korab Arifi! 👋
 
 ## 🛠️ Projects
-My current project is [plex](https://dsc.gg/plexbot)
+Currently only doing in real life comissions for small businesses
 
 <img src="https://media1.tenor.com/images/0660efe82fa3da42ed56eef013171835/tenor.gif?itemid=16596559" alt="coding">
 
 ## 📜 About me 
-I'm a JavaScript Developer who loves making bots, and I have some amazing friends, mainly Noobie.
+I'm a JavaScript Developer who loves making bots, and I have some amazing friends, mainly Noobie, Ralphie, Ena, Capy, Tech, and many more cool ones.
 
 <img src="https://media1.tenor.com/images/3fd85814ea4e2e257943f14e3d76d331/tenor.gif?itemid=16969045" alt="About me">
 
 ## 💖 Love
-I'm taken by the most amazing person I know, I'm very thankful for that
+I'm single, not sure why you'd need to know
 
 <img src="https://i.pinimg.com/originals/24/5a/82/245a82a1721047c5bc0a9fec89b26802.gif" alt ="Luv.gif">
 
