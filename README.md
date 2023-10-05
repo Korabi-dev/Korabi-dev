@@ -10,11 +10,6 @@ I'm a JavaScript Developer who loves making bots, and I have some amazing friend
 
 <img src="https://media1.tenor.com/images/3fd85814ea4e2e257943f14e3d76d331/tenor.gif?itemid=16969045" alt="About me">
 
-## 💖 Love
-I'm single, not sure why you'd need to know
-
-<img src="https://i.pinimg.com/originals/24/5a/82/245a82a1721047c5bc0a9fec89b26802.gif" alt ="Luv.gif">
-
 ## 📈 Stats
 [![Korabi's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Korabi-dev&theme=radical&show_icons=true)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
