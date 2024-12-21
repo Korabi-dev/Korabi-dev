@@ -14,4 +14,4 @@ I'm a JavaScript Developer who loves making bots, and I have some amazing friend
 [![Korabi's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Korabi-dev&theme=radical&show_icons=true)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## 👋 Goodbye
-Thanks for visiting my GitHub profile, if you wanna learn more about me go to my personal website at https://korabi.xyz/
+Thanks for visiting my GitHub profile, if you wanna learn more about me go to my personal website at https://korabi.dev/
