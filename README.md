@@ -1,4 +1,4 @@
-## Welcome, I'm Korab Arifi! 👋
+## Welcome, I'm Korabi! 👋
 
 ## 🛠️ Projects
 Currently only doing in real life comissions for small businesses, also I have my own company
